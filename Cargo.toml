@@ -1,0 +1,11 @@
+[package]
+name = "chatwork_client"
+version = "0.1.0"
+description = "A chatwork client"
+keywords = ["chatwork"]
+authors = ["Martin Nabhan <martinnabhan@me.com>"]
+license = "MIT OR Apache-2.0"
+edition = "2018"
+
+[dependencies]
+reqwest = { version = "0.10", features = ["blocking", "json"] }
