@@ -1,3 +1,15 @@
+# chatwork_client
+
+A Chatwork API client.
+
+[![crates.io](https://img.shields.io/crates/v/chatwork_client.svg)](https://crates.io/crates/chatwork_client)
+[![Documentation](https://docs.rs/chatwork_client/badge.svg)](https://docs.rs/chatwork_client)
+[![MIT or Apache-2](https://img.shields.io/crates/l/chatwork_client.svg)](LICENSE_MIT)
+
+Available in both English and Japanese:
+- [Documentation with examples](https://docs.rs/chatwork_client)
+- [Changelog](CHANGELOG.md)
+
 ## License
 
 Licensed under either of
